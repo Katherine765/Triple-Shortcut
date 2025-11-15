@@ -1,5 +1,6 @@
 # Triple-Shortcut
 Technica 2025 Submission
+
 I made a shortcut keypad using Arduino and Python.
 
 1. Download the entire repository in one folder.
