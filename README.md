@@ -2,7 +2,6 @@
 Technica 2025 Submission
 I made a shortcut keypad using Arduino and Python.
 
-To make this work
 1. Download the entire repository in one folder.
 2. Wire an Arduino as pictured in arduinoSetup.png and arduinoPhoto.png.
 3. Upload serialOutputer.ino to the Arduino.
