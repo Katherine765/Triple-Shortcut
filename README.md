@@ -25,5 +25,5 @@ I started by wiring the buttons, then used pyautogui to control the keyboard, th
 ## Challenges I ran into
 I use an alternate keyboard called Colemak DH, which on my laptop works by having an .exe file run in the background. The .exe and my shortcut keypad were not compatible with each other, but I was able to use my external Colemak DH keyboard to avoid that problem.
 
-## Accomplishments that we're proud of
+## Accomplishments that I'm proud of
 I am proud that I made a somewhat user-friendly GUI because usually I do not focus on how things look at all.
